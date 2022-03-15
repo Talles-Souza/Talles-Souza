@@ -6,6 +6,6 @@
 
 
   <a href="https://github.com/Talles_souza">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Talles-Souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talles-Souza&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Talles-Souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talles-Souza&layout=compact&langs_count=7&theme=dark"/>
 </div>
