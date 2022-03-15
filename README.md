@@ -1,3 +1,3 @@
-🧍‍♂️ - Talles_Souza
-💻 - Cursando Residência de Desenvolvedor Full Stack
-✉ - tallesdelfino1@gmail.com
+- 🧍‍♂️ Talles_Souza
+- 💻 Cursando Residência de Desenvolvedor Full Stack
+- ✉ tallesdelfino1@gmai.com
