@@ -1,5 +1,5 @@
 -       🧍‍♂️ Talles_Souza
--      💻 Cursando Residência de Desenvolvedor Full Stack
+-      💻 Cursando Residência de Desenvolvedor Full Stack 
 
       
 
