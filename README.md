@@ -1,5 +1,5 @@
 -       🧍‍♂️ Talles_Souza
--      💻 Desenvolvedor Trainee Full Stack 
+-      💻 Desenvolvedor Full Stack 
 
       
 
